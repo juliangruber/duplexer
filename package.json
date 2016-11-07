@@ -18,7 +18,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "through": "~0.1.4"
+    "through": "~2.3.8"
   },
   "licenses": [
     {
